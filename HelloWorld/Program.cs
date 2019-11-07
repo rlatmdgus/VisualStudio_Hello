@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("hotfix : Hello World");
+            Console.WriteLine("master: 2nd Hello World");
         }
     }
 }
